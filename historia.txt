@@ -3,3 +3,5 @@ Hola.
 Esta es mi historia.
 
 Un joven que quiere aprender programación para sacar adelanta a su familia.
+
+Hoy hablaremos de su historia.
