@@ -5,7 +5,6 @@ body{
 }
 #container{
     width: 70%;
-    border: 1px solid #DDD;
     margin: 0 auto;
 }
 #container h1{
